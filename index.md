@@ -5,6 +5,8 @@ I have a versatile skill set, through personal projects and coursework. I have g
 
 I am currently looking for an internship, to gain industry experience and contribute in building software.
 
+![Sample 1](Benson.png?raw=true "Title")
+
 
 You can use the [editor on GitHub](https://github.com/bennysonson/bennysonson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
