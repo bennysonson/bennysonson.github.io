@@ -26,7 +26,7 @@ Phone Number: (919) 592-6068
 <br/>
 
 ### Work Samples
-<a href="url"><img src="Connect4Sample.png" align="right" style="border:hidden" border-width="100px" height="600" width="300" ></a>
+<a href="url"><img src="Connect4Sample.png" align="right" style="border:solid" border-width="30px" height="600" width="300" ></a>
 *[TierListMaker](https://github.com/bennysonson/TierListMaker): Simple application for making tier lists, allowing ordering no items in tiers with custom text or images. Written in JavaScript, HTML, and CSS. Uses SortableJS and FileSaver libaries. 
 <br/>
 <br/>
