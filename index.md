@@ -5,7 +5,7 @@ I have a versatile skill set, through personal projects and coursework. I have g
 
 I am currently looking for an internship, to gain industry experience and contribute in building software.
 
-<a href="url"><img src="Bensonglad.JPG" border-style="hidden" border-width="5px" height="400" width="300" ></a>
+<a href="url"><img src="Bensonglad.JPG" align="left" border-style="hidden" border-width="5px" height="400" width="300" ></a>
 
 ### Contact Details
 ```markdown
