@@ -1,4 +1,11 @@
 ## Benson Liu Portfolio
+I am a Junior at NC State, currently pursuing a BS in Computer Science. My area of interest is software engineering.
+
+I have a versatile skill set, through personal projects and coursework. I have gained experience working in numerous languages, including Java, JavaScript, Python, C, CSS, and HTML. I have worked with various tools, such as GitHub, VSCode, Eclipse, Linux, Jenkins, Selenium, and Android Studio.
+
+I am currently looking for an internship, to gain industry experience and contribute in building software.
+
+
 You can use the [editor on GitHub](https://github.com/bennysonson/bennysonson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
