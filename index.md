@@ -27,14 +27,14 @@ Phone Number: (919) 592-6068
 
 ### Work Samples
 *[TierListMaker](https://github.com/bennysonson/TierListMaker): Simple application for making tier lists, allowing ordering no items in tiers with custom text or images. Written in JavaScript, HTML, and CSS. Uses SortableJS and FileSaver libaries. 
-<a href="url"><img src="TierListMakerSample.png" style="border:hidden" border-width="400px" height="150" width="300" ></a>
-<a href="url"><img src="Connect4Sample.png" align="right" style="border:hidden" border-width="100px" height="600" width="300" ></a>
-<br/>
-<br/>
-*[BoardGames](https://github.com/bennysonson/Board-Games): Python implementation of various board games with an AI, including Tic Tac Toe and Connect 4. The AI uses the minimax algorithm to play optimal moves.
+<a href="url"><img src="TierListMakerSample.png" align="right" style="border:hidden" border-width="400px" height="150" width="300" ></a>
 <br/>
 <br/>
 *[InstaScript](https://github.com/bennysonson/InstaScript): Application for automating Instagram tasks, with tkinter GUI. Written in Python using Selenium for web tasks. Requires Firefox web browser
 <br/>
 <br/>
+*[BoardGames](https://github.com/bennysonson/Board-Games): Python implementation of various board games with an AI, including Tic Tac Toe and Connect 4. The AI uses the minimax algorithm to play optimal moves.
+<br/>
+<br/>
+<a href="url"><img src="Connect4Sample.png" align="right" style="border:hidden" border-width="100px" height="600" width="300" ></a>
 *[TicketManager](https://github.com/bennysonson/TicketManager): Ticket Managing system for an IT department written in Java. Tickets are implemented as an FSM with switch statements.  
