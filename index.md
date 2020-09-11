@@ -18,7 +18,14 @@ Phone Number: (919) 592-6068
 [Resume](Resume.pdf)\
 [Cover Letter](CoverLetter.pdf)\
 [LinkedIn Profile](https://www.linkedin.com/in/benson-liu-b784641b6/)
-\
-\
-\
+<br/>
+<br/>
+<br/>
+<br/>
+
 ### Work Samples
+<a href="url"><img src="TierListMakerSample.png" align="right" style="border:hidden" border-width="100px" height="150" width="300" ></a>
+<a href="url"><img src="Connect4Sample.png" align="right" style="border:hidden" border-width="100px" height="600" width="300" ></a>
+*Test
+<br/>
+*Test 2
