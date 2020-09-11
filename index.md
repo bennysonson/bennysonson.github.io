@@ -5,13 +5,15 @@ I have a versatile skill set, through personal projects and coursework. I have g
 
 I am currently looking for an internship, to gain industry experience and contribute in building software.
 
-<a href="url"><img src="Bensonglad.JPG" align="left" height="400" width="300" ></a>
+<a href="url"><img src="Bensonglad.JPG" border-style="hidden" border-width="5px" height="400" width="300" ></a>
 
-You can use the [editor on GitHub](https://github.com/bennysonson/bennysonson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Contact Details
+```markdown
+Semester Address: 1619 Athens Dr, Raleigh NC 27606
+Home Address: 1117 Lakebrink Dr, Morrisville NC 27560
+Email: bliunc2000@gmail.com
+Phone Number: (919) 592-6068
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
