@@ -15,7 +15,7 @@ Email: bliunc2000@gmail.com
 Phone Number: (919) 592-6068
 ```
 
-[Resume](Resume.pdf)
+[Resume](Resume 1.pdf)
 [Cover Letter](CoverLetter.pdf)
 
 
