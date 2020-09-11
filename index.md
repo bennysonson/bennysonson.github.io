@@ -15,8 +15,9 @@ Email: bliunc2000@gmail.com
 Phone Number: (919) 592-6068
 ```
 
-[Resume](Resume.pdf)
-[Cover Letter](CoverLetter.pdf)
+[Resume](Resume.pdf)\
+[Cover Letter](CoverLetter.pdf)\
+[LinkedIn Profile](https://www.linkedin.com/in/benson-liu-b784641b6/)
 
 
 
