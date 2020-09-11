@@ -16,10 +16,10 @@ Phone Number: (919) 592-6068
 ```
 
 [Resume](Resume.pdf)\
+<br/>
 [Cover Letter](CoverLetter.pdf)\
+<br/>
 [LinkedIn Profile](https://www.linkedin.com/in/benson-liu-b784641b6/)
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
