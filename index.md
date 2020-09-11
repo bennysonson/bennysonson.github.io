@@ -22,10 +22,11 @@ Phone Number: (919) 592-6068
 <br/>
 <br/>
 <br/>
+<br/>
 
 ### Work Samples
-<a href="url"><img src="TierListMakerSample.png" align="right" style="border:hidden" border-width="100px" height="150" width="300" ></a>
+*TierListMaker: Simple application for making tier lists, allowing ordering no items in tiers with custom text or images. Written in JavaScript, HTML, and CSS. Uses SortableJS and FileSaver libaries. 
+<a href="url"><img src="TierListMakerSample.png" align="right" style="border:hidden" border-width="400px" height="150" width="300" ></a>
 <a href="url"><img src="Connect4Sample.png" align="right" style="border:hidden" border-width="100px" height="600" width="300" ></a>
-*Test
 <br/>
 *Test 2
